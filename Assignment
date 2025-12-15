@@ -1,0 +1,53 @@
+# Deep Learning & Reinforcement Learning Lab Assignments
+
+This repository contains **modified and successfully executed implementations**
+of all **5 lab assignments** for the Deep Learning and Reinforcement Learning course.
+
+Each assignment includes:
+- ✔️ A fully working Python script
+- ✔️ Logical modifications compared to the original code
+- ✔️ A detailed README explaining changes and execution steps
+
+---
+
+## 📌 Assignments Included
+
+### Assignment 1
+- Basic Deep Learning implementation
+- Code cleaned and execution issues resolved
+
+### Assignment 2
+- Improved data preprocessing and model structure
+- Enhanced readability and documentation
+
+### Assignment 3 – LSTM Time Series Prediction
+- Dataset path fixed
+- Added scaling, proper train–test split
+- Improved model stability and visualization handling
+
+### Assignment 4 – RNN Text Generation
+- Modularized preprocessing
+- Improved sequence handling
+- Clean text generation loop
+
+### Assignment 5 – Deep Reinforcement Learning
+- Refactored Q-learning logic
+- Removed redundancy
+- Improved environment handling and training stability
+
+---
+
+## 🛠️ Technologies Used
+- Python 3.10+
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+- NetworkX
+
+---
+
+## ▶️ How to Run
+Navigate to any assignment folder and run:
+```bash
+python <script_name>.py
